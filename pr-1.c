@@ -9,3 +9,4 @@ int main(){
     printf("Temp in Fahrenheit is:%f ",Fer);
     return 0;
 }
+
